@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsListingApi</string>
+    <string name="technology">TECHNOLOGY</string>
+
+    <string name="business">BUSINESS</string>
+    <string name="music">MUSIC</string>
+    <string name="politics">POLITICS</string>
+</resources>
